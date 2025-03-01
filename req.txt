@@ -1,0 +1,12 @@
+tensorflow
+fastapi
+opencv-python
+mtcnn
+pillow
+uvicorn
+streamlit
+pyngrok
+streamlit-webrtc
+flask 
+deepface
+tf-keras  
